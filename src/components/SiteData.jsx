@@ -1,6 +1,14 @@
 import React from "react";
 
 export const SiteData = ({ alt, img, site, github }) => {
+  const renderGithubButton = () => {
+    return github ? (
+      <a href={github}>
+        <p className="site-links">github</p>
+      </a>
+    ) : null;
+  };
+
   return (
     <React.Fragment>
       <div
@@ -29,9 +37,7 @@ export const SiteData = ({ alt, img, site, github }) => {
           <a href={site}>
             <p className="site-links"> site</p>
           </a>
-          <a href={github}>
-            <p className="site-links">github</p>
-          </a>
+          {renderGithubButton()}
         </div>
       </div>
     </React.Fragment>
