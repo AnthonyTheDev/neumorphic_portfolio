@@ -130,17 +130,17 @@ class Portfolio extends Component {
               github="github"
             />
             <SiteData
-              img={fullportfolio}
+              img={todo}
               alt="12ant Studio portfolio"
               linkRef="https://12antstudiotodoapp.netlify.app/"
               site="https://12antstudiotodoapp.netlify.app/"
+              github="https://github.com/AnthonyTheDev/to-do_basic.git"
             />
             <SiteData
-              img={todo}
+              img={fullportfolio}
               alt="todo app"
               linkRef="https://www.12antstudio.design/"
               site="https://www.12antstudio.design/"
-              github="https://github.com/AnthonyTheDev/to-do_basic.git"
             />
           </div>
         </div>
