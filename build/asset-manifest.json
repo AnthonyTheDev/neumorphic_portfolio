@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f6e76f3.chunk.css",
+    "main.js": "/static/js/main.aa7e4ee0.chunk.js",
+    "main.js.map": "/static/js/main.aa7e4ee0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2d6e79ba.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2d6e79ba.js.map",
+    "static/js/2.3184f645.chunk.js": "/static/js/2.3184f645.chunk.js",
+    "static/js/2.3184f645.chunk.js.map": "/static/js/2.3184f645.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0f6e76f3.chunk.css.map": "/static/css/main.0f6e76f3.chunk.css.map",
+    "static/js/2.3184f645.chunk.js.LICENSE.txt": "/static/js/2.3184f645.chunk.js.LICENSE.txt",
+    "static/media/12ant_studio.839c048c.png": "/static/media/12ant_studio.839c048c.png",
+    "static/media/12antstudio.76b6b0f0.jpg": "/static/media/12antstudio.76b6b0f0.jpg",
+    "static/media/DesignResume1.21.21.84985e38.pdf": "/static/media/DesignResume1.21.21.84985e38.pdf",
+    "static/media/Feel_Again_Cover.e4e92bff.png": "/static/media/Feel_Again_Cover.e4e92bff.png",
+    "static/media/Little-Steps-logo.1cb8733c.png": "/static/media/Little-Steps-logo.1cb8733c.png",
+    "static/media/Love Dangerous Cover_small.6fc3d81b.jpg": "/static/media/Love Dangerous Cover_small.6fc3d81b.jpg",
+    "static/media/aniPAL-logo-01.9d0b0bfd.png": "/static/media/aniPAL-logo-01.9d0b0bfd.png",
+    "static/media/drinkdoctorlogo-background.b242e5ee.png": "/static/media/drinkdoctorlogo-background.b242e5ee.png",
+    "static/media/drinkdoctorsite.9615a30f.jpg": "/static/media/drinkdoctorsite.9615a30f.jpg",
+    "static/media/evil-genius.e70d69ac.png": "/static/media/evil-genius.e70d69ac.png",
+    "static/media/naillogo.0461b249.png": "/static/media/naillogo.0461b249.png",
+    "static/media/venice_icecream.8bb9fc4b.png": "/static/media/venice_icecream.8bb9fc4b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d6e79ba.js",
+    "static/js/2.3184f645.chunk.js",
+    "static/css/main.0f6e76f3.chunk.css",
+    "static/js/main.aa7e4ee0.chunk.js"
+  ]
+}

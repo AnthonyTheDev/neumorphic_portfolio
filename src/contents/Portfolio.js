@@ -12,6 +12,7 @@ import lovedangeous from "../img/graphicDesign/Love Dangerous Cover_small.jpg";
 import { SiteData } from "../components/SiteData.jsx";
 import { ArtData } from "../components/ArtData.jsx";
 import fullportfolio from "../img/sitesImages/12antstudio.jpg";
+import todo from "../img/sitesImages/todo.jpg";
 
 class Portfolio extends Component {
   constructor() {
@@ -130,10 +131,16 @@ class Portfolio extends Component {
             />
             <SiteData
               img={fullportfolio}
-              alt="12antand Studio portfolio"
+              alt="12ant Studio portfolio"
+              linkRef="https://12antstudiotodoapp.netlify.app/"
+              site="https://12antstudiotodoapp.netlify.app/"
+            />
+            <SiteData
+              img={todo}
+              alt="todo app"
               linkRef="https://www.12antstudio.design/"
               site="https://www.12antstudio.design/"
-              github="github"
+              github="https://github.com/AnthonyTheDev/to-do_basic.git"
             />
           </div>
         </div>
